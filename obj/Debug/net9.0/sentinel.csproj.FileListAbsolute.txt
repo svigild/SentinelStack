@@ -1,0 +1,14 @@
+C:\Users\Sergio\Documents\Workspace\sentinel\obj\Debug\net9.0\sentinel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sergio\Documents\Workspace\sentinel\obj\Debug\net9.0\sentinel.AssemblyInfoInputs.cache
+C:\Users\Sergio\Documents\Workspace\sentinel\obj\Debug\net9.0\sentinel.AssemblyInfo.cs
+C:\Users\Sergio\Documents\Workspace\sentinel\obj\Debug\net9.0\sentinel.csproj.CoreCompileInputs.cache
+C:\Users\Sergio\Documents\Workspace\sentinel\bin\Debug\net9.0\sentinel.exe
+C:\Users\Sergio\Documents\Workspace\sentinel\bin\Debug\net9.0\sentinel.deps.json
+C:\Users\Sergio\Documents\Workspace\sentinel\bin\Debug\net9.0\sentinel.runtimeconfig.json
+C:\Users\Sergio\Documents\Workspace\sentinel\bin\Debug\net9.0\sentinel.dll
+C:\Users\Sergio\Documents\Workspace\sentinel\bin\Debug\net9.0\sentinel.pdb
+C:\Users\Sergio\Documents\Workspace\sentinel\obj\Debug\net9.0\sentinel.dll
+C:\Users\Sergio\Documents\Workspace\sentinel\obj\Debug\net9.0\refint\sentinel.dll
+C:\Users\Sergio\Documents\Workspace\sentinel\obj\Debug\net9.0\sentinel.pdb
+C:\Users\Sergio\Documents\Workspace\sentinel\obj\Debug\net9.0\sentinel.genruntimeconfig.cache
+C:\Users\Sergio\Documents\Workspace\sentinel\obj\Debug\net9.0\ref\sentinel.dll
